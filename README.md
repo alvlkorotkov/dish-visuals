@@ -8,6 +8,9 @@ Published preview: https://alvlkorotkov.github.io/dish-visuals/
 
 - `index.html` - published landing page.
 - `dishes.html` - same dish catalog as a direct page.
+- `dishes.json` - source data for dish cards, recipes, image paths, and statuses.
+- `DISH_STATUS.md` - generated status table for all dishes and missing angles.
+- `generation-queue.json` - generated list of missing image assets and prompts.
 - `assets/dishes/` - dish image folders.
 - `robots.txt` - asks crawlers not to index the preview.
 
