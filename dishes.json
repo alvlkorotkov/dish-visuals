@@ -291,7 +291,8 @@
       "images": {
         "top-shot": "assets/dishes/buckwheat-bowl/top-shot.png",
         "close-up": "assets/dishes/buckwheat-bowl/close-up.png",
-        "table-scene": "assets/dishes/buckwheat-bowl/table-scene.png"
+        "table-scene": "assets/dishes/buckwheat-bowl/table-scene.png",
+        "chef-hands": "assets/dishes/buckwheat-bowl/chef-hands.png"
       }
     },
     {
@@ -323,7 +324,8 @@
       "images": {
         "top-shot": "assets/dishes/pita-falafel-avocado/top-shot.png",
         "close-up": "assets/dishes/pita-falafel-avocado/close-up.png",
-        "table-scene": "assets/dishes/pita-falafel-avocado/table-scene.png"
+        "table-scene": "assets/dishes/pita-falafel-avocado/table-scene.png",
+        "chef-hands": "assets/dishes/pita-falafel-avocado/chef-hands.png"
       }
     },
     {
@@ -354,7 +356,8 @@
       "images": {
         "top-shot": "assets/dishes/quinoa-blueberry-pecan/top-shot.png",
         "close-up": "assets/dishes/quinoa-blueberry-pecan/close-up.png",
-        "table-scene": "assets/dishes/quinoa-blueberry-pecan/table-scene.png"
+        "table-scene": "assets/dishes/quinoa-blueberry-pecan/table-scene.png",
+        "chef-hands": "assets/dishes/quinoa-blueberry-pecan/chef-hands.png"
       }
     },
     {
@@ -384,7 +387,8 @@
       "images": {
         "top-shot": "assets/dishes/general-salad/top-shot.png",
         "close-up": "assets/dishes/general-salad/close-up.png",
-        "table-scene": "assets/dishes/general-salad/table-scene.png"
+        "table-scene": "assets/dishes/general-salad/table-scene.png",
+        "chef-hands": "assets/dishes/general-salad/chef-hands.png"
       }
     },
     {

@@ -9,10 +9,10 @@
 | Чёрный корень сельдерея в соляной корке | variation | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
 | Веганская лазанья | base | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
 | Жареный тофу с рисом | base | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
-| Гречка-боул в авторском соусе | base | 3/5 | top-shot, close-up, table-scene | chef-hands, eating-scene |
-| Пита с фалафелем и авокадо | base | 3/5 | top-shot, close-up, table-scene | chef-hands, eating-scene |
-| Киноа с голубикой и пеканом | base | 3/5 | top-shot, close-up, table-scene | chef-hands, eating-scene |
-| Общий салат | base | 3/5 | top-shot, close-up, table-scene | chef-hands, eating-scene |
+| Гречка-боул в авторском соусе | base | 4/5 | top-shot, close-up, table-scene, chef-hands | eating-scene |
+| Пита с фалафелем и авокадо | base | 4/5 | top-shot, close-up, table-scene, chef-hands | eating-scene |
+| Киноа с голубикой и пеканом | base | 4/5 | top-shot, close-up, table-scene, chef-hands | eating-scene |
+| Общий салат | base | 4/5 | top-shot, close-up, table-scene, chef-hands | eating-scene |
 | Сашими из маринованного арбуза | variation | 3/5 | top-shot, close-up, table-scene | chef-hands, eating-scene |
 | Цветная капуста с угольной корочкой | variation | 3/5 | top-shot, close-up, table-scene | chef-hands, eating-scene |
 | Стейк из королевской вёшенки | variation | 3/5 | top-shot, close-up, table-scene | chef-hands, eating-scene |
@@ -37,4 +37,4 @@
 - Complete: 7
 - Partial: 20
 - Empty: 0
-- Missing image assets: 40
+- Missing image assets: 36

@@ -1,14 +1,6 @@
 {
-  "count": 40,
+  "count": 36,
   "items": [
-    {
-      "slug": "buckwheat-bowl",
-      "title": "Гречка-боул в авторском соусе",
-      "group": "base",
-      "angle": "chef-hands",
-      "targetPath": "assets/dishes/buckwheat-bowl/chef-hands.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Гречка-боул в авторском соусе. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Керамическая миска, гречка, печёные овощи, тёмный соус, травы и красный акцент.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
     {
       "slug": "buckwheat-bowl",
       "title": "Гречка-боул в авторском соусе",
@@ -16,14 +8,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/buckwheat-bowl/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Гречка-боул в авторском соусе. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Керамическая миска, гречка, печёные овощи, тёмный соус, травы и красный акцент.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "pita-falafel-avocado",
-      "title": "Пита с фалафелем и авокадо",
-      "group": "base",
-      "angle": "chef-hands",
-      "targetPath": "assets/dishes/pita-falafel-avocado/chef-hands.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Пита с фалафелем и авокадо. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Тёплая пита, маленькие фалафели, зелёный крем, тахини и строгая подача на фарфоре.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "pita-falafel-avocado",
@@ -37,25 +21,9 @@
       "slug": "quinoa-blueberry-pecan",
       "title": "Киноа с голубикой и пеканом",
       "group": "base",
-      "angle": "chef-hands",
-      "targetPath": "assets/dishes/quinoa-blueberry-pecan/chef-hands.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Киноа с голубикой и пеканом. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Светлая киноа, тёмная голубика, пекан, кисло-сладкая заправка и много пустого фарфора.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "quinoa-blueberry-pecan",
-      "title": "Киноа с голубикой и пеканом",
-      "group": "base",
       "angle": "eating-scene",
       "targetPath": "assets/dishes/quinoa-blueberry-pecan/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Киноа с голубикой и пеканом. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Светлая киноа, тёмная голубика, пекан, кисло-сладкая заправка и много пустого фарфора.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "general-salad",
-      "title": "Общий салат",
-      "group": "base",
-      "angle": "chef-hands",
-      "targetPath": "assets/dishes/general-salad/chef-hands.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Общий салат. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Радиккьо, тёмная зелень, свекольные ленты, гранат, орехи и соусник рядом.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "general-salad",
