@@ -290,7 +290,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/buckwheat-bowl/top-shot.png",
-        "close-up": "assets/dishes/buckwheat-bowl/close-up.png"
+        "close-up": "assets/dishes/buckwheat-bowl/close-up.png",
+        "table-scene": "assets/dishes/buckwheat-bowl/table-scene.png"
       }
     },
     {
@@ -321,7 +322,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/pita-falafel-avocado/top-shot.png",
-        "close-up": "assets/dishes/pita-falafel-avocado/close-up.png"
+        "close-up": "assets/dishes/pita-falafel-avocado/close-up.png",
+        "table-scene": "assets/dishes/pita-falafel-avocado/table-scene.png"
       }
     },
     {
@@ -351,7 +353,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/quinoa-blueberry-pecan/top-shot.png",
-        "close-up": "assets/dishes/quinoa-blueberry-pecan/close-up.png"
+        "close-up": "assets/dishes/quinoa-blueberry-pecan/close-up.png",
+        "table-scene": "assets/dishes/quinoa-blueberry-pecan/table-scene.png"
       }
     },
     {
@@ -380,7 +383,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/general-salad/top-shot.png",
-        "close-up": "assets/dishes/general-salad/close-up.png"
+        "close-up": "assets/dishes/general-salad/close-up.png",
+        "table-scene": "assets/dishes/general-salad/table-scene.png"
       }
     },
     {
@@ -439,7 +443,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/cauliflower-charcoal/top-shot.png",
-        "close-up": "assets/dishes/cauliflower-charcoal/close-up.png"
+        "close-up": "assets/dishes/cauliflower-charcoal/close-up.png",
+        "table-scene": "assets/dishes/cauliflower-charcoal/table-scene.png"
       }
     },
     {
@@ -468,7 +473,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/king-oyster-steak/top-shot.png",
-        "close-up": "assets/dishes/king-oyster-steak/close-up.png"
+        "close-up": "assets/dishes/king-oyster-steak/close-up.png",
+        "table-scene": "assets/dishes/king-oyster-steak/table-scene.png"
       }
     },
     {
@@ -497,7 +503,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/carrot-tea-smoke/top-shot.png",
-        "close-up": "assets/dishes/carrot-tea-smoke/close-up.png"
+        "close-up": "assets/dishes/carrot-tea-smoke/close-up.png",
+        "table-scene": "assets/dishes/carrot-tea-smoke/table-scene.png"
       }
     },
     {
@@ -526,7 +533,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/tomato-watermelon-carpaccio/top-shot.png",
-        "close-up": "assets/dishes/tomato-watermelon-carpaccio/close-up.png"
+        "close-up": "assets/dishes/tomato-watermelon-carpaccio/close-up.png",
+        "table-scene": "assets/dishes/tomato-watermelon-carpaccio/table-scene.png"
       }
     },
     {
@@ -555,7 +563,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/rice-paper-dumplings/top-shot.png",
-        "close-up": "assets/dishes/rice-paper-dumplings/close-up.png"
+        "close-up": "assets/dishes/rice-paper-dumplings/close-up.png",
+        "table-scene": "assets/dishes/rice-paper-dumplings/table-scene.png"
       }
     },
     {
@@ -584,7 +593,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/beet-ravioli/top-shot.png",
-        "close-up": "assets/dishes/beet-ravioli/close-up.png"
+        "close-up": "assets/dishes/beet-ravioli/close-up.png",
+        "table-scene": "assets/dishes/beet-ravioli/table-scene.png"
       }
     },
     {
@@ -613,7 +623,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/fermented-plum-miso/top-shot.png",
-        "close-up": "assets/dishes/fermented-plum-miso/close-up.png"
+        "close-up": "assets/dishes/fermented-plum-miso/close-up.png",
+        "table-scene": "assets/dishes/fermented-plum-miso/table-scene.png"
       }
     },
     {
@@ -642,7 +653,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/smoked-pear-seaweed/top-shot.png",
-        "close-up": "assets/dishes/smoked-pear-seaweed/close-up.png"
+        "close-up": "assets/dishes/smoked-pear-seaweed/close-up.png",
+        "table-scene": "assets/dishes/smoked-pear-seaweed/table-scene.png"
       }
     },
     {
@@ -671,7 +683,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/topinambur-cream/top-shot.png",
-        "close-up": "assets/dishes/topinambur-cream/close-up.png"
+        "close-up": "assets/dishes/topinambur-cream/close-up.png",
+        "table-scene": "assets/dishes/topinambur-cream/table-scene.png"
       }
     },
     {
@@ -700,7 +713,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/pumpkin-coals-pomegranate/top-shot.png",
-        "close-up": "assets/dishes/pumpkin-coals-pomegranate/close-up.png"
+        "close-up": "assets/dishes/pumpkin-coals-pomegranate/close-up.png",
+        "table-scene": "assets/dishes/pumpkin-coals-pomegranate/table-scene.png"
       }
     },
     {
@@ -729,7 +743,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/sorrel-cucumber-sorbet/top-shot.png",
-        "close-up": "assets/dishes/sorrel-cucumber-sorbet/close-up.png"
+        "close-up": "assets/dishes/sorrel-cucumber-sorbet/close-up.png",
+        "table-scene": "assets/dishes/sorrel-cucumber-sorbet/table-scene.png"
       }
     },
     {
@@ -758,7 +773,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/black-rice-lychee/top-shot.png",
-        "close-up": "assets/dishes/black-rice-lychee/close-up.png"
+        "close-up": "assets/dishes/black-rice-lychee/close-up.png",
+        "table-scene": "assets/dishes/black-rice-lychee/table-scene.png"
       }
     },
     {
@@ -787,7 +803,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/red-not-wine/top-shot.png",
-        "close-up": "assets/dishes/red-not-wine/close-up.png"
+        "close-up": "assets/dishes/red-not-wine/close-up.png",
+        "table-scene": "assets/dishes/red-not-wine/table-scene.png"
       }
     },
     {
@@ -815,7 +832,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/candy-box/top-shot.png",
-        "close-up": "assets/dishes/candy-box/close-up.png"
+        "close-up": "assets/dishes/candy-box/close-up.png",
+        "table-scene": "assets/dishes/candy-box/table-scene.png"
       }
     },
     {
@@ -844,7 +862,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/signature-candies/top-shot.png",
-        "close-up": "assets/dishes/signature-candies/close-up.png"
+        "close-up": "assets/dishes/signature-candies/close-up.png",
+        "table-scene": "assets/dishes/signature-candies/table-scene.png"
       }
     }
   ]

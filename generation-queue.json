@@ -1,14 +1,6 @@
 {
-  "count": 59,
+  "count": 40,
   "items": [
-    {
-      "slug": "buckwheat-bowl",
-      "title": "Гречка-боул в авторском соусе",
-      "group": "base",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/buckwheat-bowl/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Гречка-боул в авторском соусе. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Керамическая миска, гречка, печёные овощи, тёмный соус, травы и красный акцент.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
     {
       "slug": "buckwheat-bowl",
       "title": "Гречка-боул в авторском соусе",
@@ -24,14 +16,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/buckwheat-bowl/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Гречка-боул в авторском соусе. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Керамическая миска, гречка, печёные овощи, тёмный соус, травы и красный акцент.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "pita-falafel-avocado",
-      "title": "Пита с фалафелем и авокадо",
-      "group": "base",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/pita-falafel-avocado/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Пита с фалафелем и авокадо. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Тёплая пита, маленькие фалафели, зелёный крем, тахини и строгая подача на фарфоре.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "pita-falafel-avocado",
@@ -53,14 +37,6 @@
       "slug": "quinoa-blueberry-pecan",
       "title": "Киноа с голубикой и пеканом",
       "group": "base",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/quinoa-blueberry-pecan/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Киноа с голубикой и пеканом. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Светлая киноа, тёмная голубика, пекан, кисло-сладкая заправка и много пустого фарфора.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "quinoa-blueberry-pecan",
-      "title": "Киноа с голубикой и пеканом",
-      "group": "base",
       "angle": "chef-hands",
       "targetPath": "assets/dishes/quinoa-blueberry-pecan/chef-hands.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Киноа с голубикой и пеканом. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Светлая киноа, тёмная голубика, пекан, кисло-сладкая заправка и много пустого фарфора.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
@@ -72,14 +48,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/quinoa-blueberry-pecan/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Киноа с голубикой и пеканом. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Светлая киноа, тёмная голубика, пекан, кисло-сладкая заправка и много пустого фарфора.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "general-salad",
-      "title": "Общий салат",
-      "group": "base",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/general-salad/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Общий салат. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Радиккьо, тёмная зелень, свекольные ленты, гранат, орехи и соусник рядом.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "general-salad",
@@ -117,14 +85,6 @@
       "slug": "cauliflower-charcoal",
       "title": "Цветная капуста с угольной корочкой",
       "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/cauliflower-charcoal/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Цветная капуста с угольной корочкой. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Стейк из цветной капусты, копчёный перец, тёмная корочка, зелёный соус.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "cauliflower-charcoal",
-      "title": "Цветная капуста с угольной корочкой",
-      "group": "variation",
       "angle": "chef-hands",
       "targetPath": "assets/dishes/cauliflower-charcoal/chef-hands.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Цветная капуста с угольной корочкой. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Стейк из цветной капусты, копчёный перец, тёмная корочка, зелёный соус.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
@@ -136,14 +96,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/cauliflower-charcoal/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Цветная капуста с угольной корочкой. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Стейк из цветной капусты, копчёный перец, тёмная корочка, зелёный соус.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "king-oyster-steak",
-      "title": "Стейк из королевской вёшенки",
-      "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/king-oyster-steak/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Стейк из королевской вёшенки. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Толстый срез гриба, прожилки, строгий нож рядом, красная линия соуса.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "king-oyster-steak",
@@ -165,14 +117,6 @@
       "slug": "carrot-tea-smoke",
       "title": "Морковь, томлённая в чайном дыму",
       "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/carrot-tea-smoke/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Морковь, томлённая в чайном дыму. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Длинные моркови, чайный дым, чёрный кунжут и зелёный соус тонкой линией.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "carrot-tea-smoke",
-      "title": "Морковь, томлённая в чайном дыму",
-      "group": "variation",
       "angle": "chef-hands",
       "targetPath": "assets/dishes/carrot-tea-smoke/chef-hands.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Морковь, томлённая в чайном дыму. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Длинные моркови, чайный дым, чёрный кунжут и зелёный соус тонкой линией.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
@@ -184,14 +128,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/carrot-tea-smoke/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Морковь, томлённая в чайном дыму. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Длинные моркови, чайный дым, чёрный кунжут и зелёный соус тонкой линией.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "tomato-watermelon-carpaccio",
-      "title": "Карпаччо из томатов и арбуза",
-      "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/tomato-watermelon-carpaccio/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Карпаччо из томатов и арбуза. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Прозрачные ломтики, базилик, чёрная соль, оливковое масло и холодный фарфор.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "tomato-watermelon-carpaccio",
@@ -213,14 +149,6 @@
       "slug": "rice-paper-dumplings",
       "title": "Пельмени из рисовой бумаги с грибным бульоном",
       "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/rice-paper-dumplings/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Пельмени из рисовой бумаги с грибным бульоном. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Прозрачная оболочка, тёмный consommé, маленькая пиала, пар в свечном свете.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "rice-paper-dumplings",
-      "title": "Пельмени из рисовой бумаги с грибным бульоном",
-      "group": "variation",
       "angle": "chef-hands",
       "targetPath": "assets/dishes/rice-paper-dumplings/chef-hands.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Пельмени из рисовой бумаги с грибным бульоном. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Прозрачная оболочка, тёмный consommé, маленькая пиала, пар в свечном свете.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
@@ -232,14 +160,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/rice-paper-dumplings/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Пельмени из рисовой бумаги с грибным бульоном. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Прозрачная оболочка, тёмный consommé, маленькая пиала, пар в свечном свете.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "beet-ravioli",
-      "title": "Равиоли из свёклы с маком",
-      "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/beet-ravioli/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Равиоли из свёклы с маком. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Три красных равиоли, мак, ореховый крем, капли кислого соуса и много пустого пространства.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "beet-ravioli",
@@ -261,14 +181,6 @@
       "slug": "fermented-plum-miso",
       "title": "Ферментированная слива с гречишным мисо",
       "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/fermented-plum-miso/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Ферментированная слива с гречишным мисо. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Одна слива, тёмная паста, лаковая поверхность, резкое послевкусие и пустой фарфор.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "fermented-plum-miso",
-      "title": "Ферментированная слива с гречишным мисо",
-      "group": "variation",
       "angle": "chef-hands",
       "targetPath": "assets/dishes/fermented-plum-miso/chef-hands.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Ферментированная слива с гречишным мисо. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Одна слива, тёмная паста, лаковая поверхность, резкое послевкусие и пустой фарфор.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
@@ -280,14 +192,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/fermented-plum-miso/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Ферментированная слива с гречишным мисо. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Одна слива, тёмная паста, лаковая поверхность, резкое послевкусие и пустой фарфор.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "smoked-pear-seaweed",
-      "title": "Копчёная груша с хреном и водорослями",
-      "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/smoked-pear-seaweed/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Копчёная груша с хреном и водорослями. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Половина груши, дымная кожица, белый крем, тёмные водоросли и холодный свет.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "smoked-pear-seaweed",
@@ -309,14 +213,6 @@
       "slug": "topinambur-cream",
       "title": "Крем из топинамбура с икрой из бальзамика",
       "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/topinambur-cream/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Крем из топинамбура с икрой из бальзамика. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Бледный крем, чёрные сферы, микрозелень, тонкая латунная ложка.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "topinambur-cream",
-      "title": "Крем из топинамбура с икрой из бальзамика",
-      "group": "variation",
       "angle": "chef-hands",
       "targetPath": "assets/dishes/topinambur-cream/chef-hands.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Крем из топинамбура с икрой из бальзамика. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Бледный крем, чёрные сферы, микрозелень, тонкая латунная ложка.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
@@ -328,14 +224,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/topinambur-cream/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Крем из топинамбура с икрой из бальзамика. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Бледный крем, чёрные сферы, микрозелень, тонкая латунная ложка.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "pumpkin-coals-pomegranate",
-      "title": "Тыква в углях с соусом из граната",
-      "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/pumpkin-coals-pomegranate/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Тыква в углях с соусом из граната. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Оранжевый клин, чёрная корка, гранатовый соус как тонкая тревожная линия.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "pumpkin-coals-pomegranate",
@@ -357,14 +245,6 @@
       "slug": "sorrel-cucumber-sorbet",
       "title": "Ледяной сорбет из щавеля и огурца",
       "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/sorrel-cucumber-sorbet/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Ледяной сорбет из щавеля и огурца. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Зелёная кнель, иней, прозрачная чаша, маленькие листья щавеля.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "sorrel-cucumber-sorbet",
-      "title": "Ледяной сорбет из щавеля и огурца",
-      "group": "variation",
       "angle": "chef-hands",
       "targetPath": "assets/dishes/sorrel-cucumber-sorbet/chef-hands.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Ледяной сорбет из щавеля и огурца. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Зелёная кнель, иней, прозрачная чаша, маленькие листья щавеля.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
@@ -376,14 +256,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/sorrel-cucumber-sorbet/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Ледяной сорбет из щавеля и огурца. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Зелёная кнель, иней, прозрачная чаша, маленькие листья щавеля.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "black-rice-lychee",
-      "title": "Чёрный рис с личи и красным перцем",
-      "group": "variation",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/black-rice-lychee/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Чёрный рис с личи и красным перцем. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Чёрный рис, белые личи, красный соус, высокий контраст и строгая композиция.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "black-rice-lychee",
@@ -405,14 +277,6 @@
       "slug": "red-not-wine",
       "title": "Красная “не-вино” жидкость",
       "group": "prop",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/red-not-wine/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Красная “не-вино” жидкость. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Бокал, тёмно-красная прозрачность, свечи, отражения на столе, без буквального объяснения.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "red-not-wine",
-      "title": "Красная “не-вино” жидкость",
-      "group": "prop",
       "angle": "chef-hands",
       "targetPath": "assets/dishes/red-not-wine/chef-hands.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Красная “не-вино” жидкость. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Бокал, тёмно-красная прозрачность, свечи, отражения на столе, без буквального объяснения.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
@@ -429,14 +293,6 @@
       "slug": "candy-box",
       "title": "Коробка уникальных конфет",
       "group": "prop",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/candy-box/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Коробка уникальных конфет. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Тёмная коробка, латунная кромка, белая бумага внутри, аккуратные ячейки и свечной блик.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "candy-box",
-      "title": "Коробка уникальных конфет",
-      "group": "prop",
       "angle": "chef-hands",
       "targetPath": "assets/dishes/candy-box/chef-hands.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Коробка уникальных конфет. Angle: chef-hands (руки шефа в процессе подачи или финального штриха). Visual note: Тёмная коробка, латунная кромка, белая бумага внутри, аккуратные ячейки и свечной блик.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
@@ -448,14 +304,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/candy-box/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Коробка уникальных конфет. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Тёмная коробка, латунная кромка, белая бумага внутри, аккуратные ячейки и свечной блик.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "signature-candies",
-      "title": "Уникальные конфеты как отдельный prop",
-      "group": "prop",
-      "angle": "table-scene",
-      "targetPath": "assets/dishes/signature-candies/table-scene.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Уникальные конфеты как отдельный prop. Angle: table-scene (блюдо на овальном столе при свечах). Visual note: Набор разных форм, тёмный шоколад, красная начинка, золото, фарфор и макро-блики.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "signature-candies",
