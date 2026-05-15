@@ -1,18 +1,14 @@
 # Dish Status
 
-Total dishes: 27
-Complete dishes: 5
-Missing image assets: 99
-
-| Dish | Group | Ready | Present | Missing |
+| Dish | Group | Status | Present | Missing |
 | --- | --- | ---: | --- | --- |
 | Ризотто с грибами | base | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
 | Красно-фиолетовый хумус | base | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
 | Конфеты ручной работы | prop | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
 | Свекольный тартар | variation | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
 | Чёрный корень сельдерея в соляной корке | variation | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
-| Веганская лазанья | base | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
-| Жареный тофу с рисом | base | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Веганская лазанья | base | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
+| Жареный тофу с рисом | base | 5/5 | top-shot, close-up, table-scene, chef-hands, eating-scene | — |
 | Гречка-боул в авторском соусе | base | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
 | Пита с фалафелем и авокадо | base | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
 | Киноа с голубикой и пеканом | base | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
@@ -33,3 +29,11 @@ Missing image assets: 99
 | Красная “не-вино” жидкость | prop | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
 | Коробка уникальных конфет | prop | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
 | Уникальные конфеты как отдельный prop | prop | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
+
+## Summary
+
+- Total entries: 27
+- Complete: 7
+- Partial: 8
+- Empty: 12
+- Missing image assets: 91
