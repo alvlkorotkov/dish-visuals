@@ -289,7 +289,8 @@
         "Собрать боул, добавить тёмный соус, травы и масло."
       ],
       "images": {
-        "top-shot": "assets/dishes/buckwheat-bowl/top-shot.png"
+        "top-shot": "assets/dishes/buckwheat-bowl/top-shot.png",
+        "close-up": "assets/dishes/buckwheat-bowl/close-up.png"
       }
     },
     {
@@ -319,7 +320,8 @@
         "Подать в тёплой пите с кремом и маринованным акцентом."
       ],
       "images": {
-        "top-shot": "assets/dishes/pita-falafel-avocado/top-shot.png"
+        "top-shot": "assets/dishes/pita-falafel-avocado/top-shot.png",
+        "close-up": "assets/dishes/pita-falafel-avocado/close-up.png"
       }
     },
     {
@@ -348,7 +350,8 @@
         "Собрать с голубикой, пеканом и микрозеленью."
       ],
       "images": {
-        "top-shot": "assets/dishes/quinoa-blueberry-pecan/top-shot.png"
+        "top-shot": "assets/dishes/quinoa-blueberry-pecan/top-shot.png",
+        "close-up": "assets/dishes/quinoa-blueberry-pecan/close-up.png"
       }
     },
     {
@@ -376,7 +379,8 @@
         "Собрать как высокий ритуальный салат с гранатом и орехами."
       ],
       "images": {
-        "top-shot": "assets/dishes/general-salad/top-shot.png"
+        "top-shot": "assets/dishes/general-salad/top-shot.png",
+        "close-up": "assets/dishes/general-salad/close-up.png"
       }
     },
     {
@@ -433,7 +437,8 @@
         "Подать с зелёным соусом и лимонной кислотой."
       ],
       "images": {
-        "top-shot": "assets/dishes/cauliflower-charcoal/top-shot.png"
+        "top-shot": "assets/dishes/cauliflower-charcoal/top-shot.png",
+        "close-up": "assets/dishes/cauliflower-charcoal/close-up.png"
       }
     },
     {
@@ -461,7 +466,8 @@
         "Подать с красным перечным jus и травами."
       ],
       "images": {
-        "top-shot": "assets/dishes/king-oyster-steak/top-shot.png"
+        "top-shot": "assets/dishes/king-oyster-steak/top-shot.png",
+        "close-up": "assets/dishes/king-oyster-steak/close-up.png"
       }
     },
     {
@@ -489,7 +495,8 @@
         "Подать с дымом, кунжутом и зелёным соусом."
       ],
       "images": {
-        "top-shot": "assets/dishes/carrot-tea-smoke/top-shot.png"
+        "top-shot": "assets/dishes/carrot-tea-smoke/top-shot.png",
+        "close-up": "assets/dishes/carrot-tea-smoke/close-up.png"
       }
     },
     {
@@ -517,7 +524,8 @@
         "Закончить маслом, лимоном, базиликом и чёрной солью."
       ],
       "images": {
-        "top-shot": "assets/dishes/tomato-watermelon-carpaccio/top-shot.png"
+        "top-shot": "assets/dishes/tomato-watermelon-carpaccio/top-shot.png",
+        "close-up": "assets/dishes/tomato-watermelon-carpaccio/close-up.png"
       }
     },
     {
@@ -545,7 +553,8 @@
         "Подать в тёмном грибном бульоне с паром."
       ],
       "images": {
-        "top-shot": "assets/dishes/rice-paper-dumplings/top-shot.png"
+        "top-shot": "assets/dishes/rice-paper-dumplings/top-shot.png",
+        "close-up": "assets/dishes/rice-paper-dumplings/close-up.png"
       }
     },
     {
@@ -573,7 +582,8 @@
         "Собрать равиоли, посыпать маком и добавить кислый соус."
       ],
       "images": {
-        "top-shot": "assets/dishes/beet-ravioli/top-shot.png"
+        "top-shot": "assets/dishes/beet-ravioli/top-shot.png",
+        "close-up": "assets/dishes/beet-ravioli/close-up.png"
       }
     },
     {
@@ -601,7 +611,8 @@
         "Подать одну сливу с тёмной пастой и микрозеленью."
       ],
       "images": {
-        "top-shot": "assets/dishes/fermented-plum-miso/top-shot.png"
+        "top-shot": "assets/dishes/fermented-plum-miso/top-shot.png",
+        "close-up": "assets/dishes/fermented-plum-miso/close-up.png"
       }
     },
     {
@@ -629,7 +640,8 @@
         "Подать с водорослями, солью и лимоном."
       ],
       "images": {
-        "top-shot": "assets/dishes/smoked-pear-seaweed/top-shot.png"
+        "top-shot": "assets/dishes/smoked-pear-seaweed/top-shot.png",
+        "close-up": "assets/dishes/smoked-pear-seaweed/close-up.png"
       }
     },
     {
@@ -657,7 +669,8 @@
         "Подать крем с чёрными сферами и микрозеленью."
       ],
       "images": {
-        "top-shot": "assets/dishes/topinambur-cream/top-shot.png"
+        "top-shot": "assets/dishes/topinambur-cream/top-shot.png",
+        "close-up": "assets/dishes/topinambur-cream/close-up.png"
       }
     },
     {
@@ -685,7 +698,8 @@
         "Подать с семечками, тимьяном и тонкой линией соуса."
       ],
       "images": {
-        "top-shot": "assets/dishes/pumpkin-coals-pomegranate/top-shot.png"
+        "top-shot": "assets/dishes/pumpkin-coals-pomegranate/top-shot.png",
+        "close-up": "assets/dishes/pumpkin-coals-pomegranate/close-up.png"
       }
     },
     {
@@ -713,7 +727,8 @@
         "Заморозить и подать кнелью с инеем."
       ],
       "images": {
-        "top-shot": "assets/dishes/sorrel-cucumber-sorbet/top-shot.png"
+        "top-shot": "assets/dishes/sorrel-cucumber-sorbet/top-shot.png",
+        "close-up": "assets/dishes/sorrel-cucumber-sorbet/close-up.png"
       }
     },
     {
@@ -741,7 +756,8 @@
         "Подать с личи и тонкой линией соуса."
       ],
       "images": {
-        "top-shot": "assets/dishes/black-rice-lychee/top-shot.png"
+        "top-shot": "assets/dishes/black-rice-lychee/top-shot.png",
+        "close-up": "assets/dishes/black-rice-lychee/close-up.png"
       }
     },
     {
@@ -769,7 +785,8 @@
         "Охладить и подать в тонких бокалах."
       ],
       "images": {
-        "top-shot": "assets/dishes/red-not-wine/top-shot.png"
+        "top-shot": "assets/dishes/red-not-wine/top-shot.png",
+        "close-up": "assets/dishes/red-not-wine/close-up.png"
       }
     },
     {
@@ -796,7 +813,8 @@
         "Снимать закрытой, открытой и в руках без лица."
       ],
       "images": {
-        "top-shot": "assets/dishes/candy-box/top-shot.png"
+        "top-shot": "assets/dishes/candy-box/top-shot.png",
+        "close-up": "assets/dishes/candy-box/close-up.png"
       }
     },
     {
@@ -824,7 +842,8 @@
         "Отполировать и снять как отдельные предметы на фарфоре."
       ],
       "images": {
-        "top-shot": "assets/dishes/signature-candies/top-shot.png"
+        "top-shot": "assets/dishes/signature-candies/top-shot.png",
+        "close-up": "assets/dishes/signature-candies/close-up.png"
       }
     }
   ]
