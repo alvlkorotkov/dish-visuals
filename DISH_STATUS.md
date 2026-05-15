@@ -17,23 +17,24 @@
 | Цветная капуста с угольной корочкой | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
 | Стейк из королевской вёшенки | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
 | Морковь, томлённая в чайном дыму | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
-| Карпаччо из томатов и арбуза | variation | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Пельмени из рисовой бумаги с грибным бульоном | variation | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Равиоли из свёклы с маком | variation | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Ферментированная слива с гречишным мисо | variation | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Копчёная груша с хреном и водорослями | variation | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Крем из топинамбура с икрой из бальзамика | variation | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Тыква в углях с соусом из граната | variation | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Ледяной сорбет из щавеля и огурца | variation | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Чёрный рис с личи и красным перцем | variation | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Красная “не-вино” жидкость | prop | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Коробка уникальных конфет | prop | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
-| Уникальные конфеты как отдельный prop | prop | 0/5 | — | top-shot, close-up, table-scene, chef-hands, eating-scene |
+| Карпаччо из томатов и арбуза | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Пельмени из рисовой бумаги с грибным бульоном | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Равиоли из свёклы с маком | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Ферментированная слива с гречишным мисо | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Копчёная груша с хреном и водорослями | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Крем из топинамбура с икрой из бальзамика | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Тыква в углях с соусом из граната | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Ледяной сорбет из щавеля и огурца | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Чёрный рис с личи и красным перцем | variation | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Красная “не-вино” жидкость | prop | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Коробка уникальных конфет | prop | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+| Уникальные конфеты как отдельный prop | prop | 1/5 | top-shot | close-up, table-scene, chef-hands, eating-scene |
+
 
 ## Summary
 
 - Total entries: 27
 - Complete: 7
-- Partial: 8
-- Empty: 12
-- Missing image assets: 91
+- Partial: 20
+- Empty: 0
+- Missing image assets: 79

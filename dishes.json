@@ -516,7 +516,9 @@
         "Выложить чередующимися слоями.",
         "Закончить маслом, лимоном, базиликом и чёрной солью."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/tomato-watermelon-carpaccio/top-shot.png"
+      }
     },
     {
       "slug": "rice-paper-dumplings",
@@ -542,7 +544,9 @@
         "Завернуть в размягчённую рисовую бумагу.",
         "Подать в тёмном грибном бульоне с паром."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/rice-paper-dumplings/top-shot.png"
+      }
     },
     {
       "slug": "beet-ravioli",
@@ -568,7 +572,9 @@
         "Сделать ореховый крем с лимоном.",
         "Собрать равиоли, посыпать маком и добавить кислый соус."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/beet-ravioli/top-shot.png"
+      }
     },
     {
       "slug": "fermented-plum-miso",
@@ -594,7 +600,9 @@
         "Смешать мисо с уксусом и сиропом.",
         "Подать одну сливу с тёмной пастой и микрозеленью."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/fermented-plum-miso/top-shot.png"
+      }
     },
     {
       "slug": "smoked-pear-seaweed",
@@ -620,7 +628,9 @@
         "Сделать острый белый крем с хреном.",
         "Подать с водорослями, солью и лимоном."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/smoked-pear-seaweed/top-shot.png"
+      }
     },
     {
       "slug": "topinambur-cream",
@@ -646,7 +656,9 @@
         "Сделать бальзамические сферы или плотные капли.",
         "Подать крем с чёрными сферами и микрозеленью."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/topinambur-cream/top-shot.png"
+      }
     },
     {
       "slug": "pumpkin-coals-pomegranate",
@@ -672,7 +684,9 @@
         "Уварить гранатовый сок до густого соуса.",
         "Подать с семечками, тимьяном и тонкой линией соуса."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/pumpkin-coals-pomegranate/top-shot.png"
+      }
     },
     {
       "slug": "sorrel-cucumber-sorbet",
@@ -698,7 +712,9 @@
         "Сбалансировать сиропом и солью.",
         "Заморозить и подать кнелью с инеем."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/sorrel-cucumber-sorbet/top-shot.png"
+      }
     },
     {
       "slug": "black-rice-lychee",
@@ -724,7 +740,9 @@
         "Сделать кисло-сладкий соус из красного перца.",
         "Подать с личи и тонкой линией соуса."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/black-rice-lychee/top-shot.png"
+      }
     },
     {
       "slug": "red-not-wine",
@@ -750,7 +768,9 @@
         "Сбалансировать лимоном и сиропом.",
         "Охладить и подать в тонких бокалах."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/red-not-wine/top-shot.png"
+      }
     },
     {
       "slug": "candy-box",
@@ -775,7 +795,9 @@
         "Разложить конфеты в отдельных ячейках.",
         "Снимать закрытой, открытой и в руках без лица."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/candy-box/top-shot.png"
+      }
     },
     {
       "slug": "signature-candies",
@@ -801,7 +823,9 @@
         "Заполнить густой красной начинкой.",
         "Отполировать и снять как отдельные предметы на фарфоре."
       ],
-      "images": {}
+      "images": {
+        "top-shot": "assets/dishes/signature-candies/top-shot.png"
+      }
     }
   ]
 }
