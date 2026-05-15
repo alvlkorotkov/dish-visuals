@@ -409,7 +409,8 @@
       ],
       "images": {
         "top-shot": "assets/dishes/watermelon-sashimi/top-shot.png",
-        "table-scene": "assets/dishes/watermelon-sashimi/table-scene.png"
+        "table-scene": "assets/dishes/watermelon-sashimi/table-scene.png",
+        "close-up": "assets/dishes/watermelon-sashimi/close-up.png"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "count": 60,
+  "count": 59,
   "items": [
     {
       "slug": "buckwheat-bowl",
@@ -96,14 +96,6 @@
       "angle": "eating-scene",
       "targetPath": "assets/dishes/general-salad/eating-scene.png",
       "prompt": "Photorealistic cinematic vegetarian food concept art, Общий салат. Angle: eating-scene (блюдо едят за столом, лицо неузнаваемо или вне кадра). Visual note: Радиккьо, тёмная зелень, свекольные ленты, гранат, орехи и соусник рядом.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
-    },
-    {
-      "slug": "watermelon-sashimi",
-      "title": "Сашими из маринованного арбуза",
-      "group": "variation",
-      "angle": "close-up",
-      "targetPath": "assets/dishes/watermelon-sashimi/close-up.png",
-      "prompt": "Photorealistic cinematic vegetarian food concept art, Сашими из маринованного арбуза. Angle: close-up (макро фактуры, соуса, разреза или начинки). Visual note: Тонкие красные срезы, чёрная соль, капли юдзу, ледяной фарфор и холодный свет.. Setting: closed dinner moodboard, old mansion dining room, oval dark wooden table, candles, white porcelain, brass accents, controlled red accents, elegant restaurant plating. No text, no logos, no faces clearly visible, no unsafe food handling, no literal gore."
     },
     {
       "slug": "watermelon-sashimi",

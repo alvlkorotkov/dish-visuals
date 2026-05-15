@@ -13,7 +13,7 @@
 | Пита с фалафелем и авокадо | base | 2/5 | top-shot, close-up | table-scene, chef-hands, eating-scene |
 | Киноа с голубикой и пеканом | base | 2/5 | top-shot, close-up | table-scene, chef-hands, eating-scene |
 | Общий салат | base | 2/5 | top-shot, close-up | table-scene, chef-hands, eating-scene |
-| Сашими из маринованного арбуза | variation | 2/5 | top-shot, table-scene | close-up, chef-hands, eating-scene |
+| Сашими из маринованного арбуза | variation | 3/5 | top-shot, close-up, table-scene | chef-hands, eating-scene |
 | Цветная капуста с угольной корочкой | variation | 2/5 | top-shot, close-up | table-scene, chef-hands, eating-scene |
 | Стейк из королевской вёшенки | variation | 2/5 | top-shot, close-up | table-scene, chef-hands, eating-scene |
 | Морковь, томлённая в чайном дыму | variation | 2/5 | top-shot, close-up | table-scene, chef-hands, eating-scene |
@@ -37,4 +37,4 @@
 - Complete: 7
 - Partial: 20
 - Empty: 0
-- Missing image assets: 60
+- Missing image assets: 59
