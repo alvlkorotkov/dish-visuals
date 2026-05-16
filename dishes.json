@@ -111,6 +111,50 @@
       }
     },
     {
+      "slug": "red-hummus-thumb-link-test",
+      "title": "Красно-фиолетовый хумус тестовый",
+      "group": "base",
+      "tags": [
+        "из базового меню",
+        "dip",
+        "готово",
+        "тест"
+      ],
+      "description": "Гладкий хумус из нута и свёклы: невинный растительный центр стола с опасным красным подтекстом.",
+      "visualNote": "Тестовая карточка для сравнения: превью такие же, но клик открывает thumbnail WebP вместо полноразмерного PNG.",
+      "ingredients": [
+        "нут",
+        "печёная свёкла",
+        "тахини",
+        "лимонный сок",
+        "оливковое масло",
+        "зира",
+        "кунжут",
+        "зелень",
+        "гранат"
+      ],
+      "recipe": [
+        "Запечь свёклу до мягкости, нут отварить или промыть.",
+        "Пробить нут, свёклу, тахини и лимон в гладкий крем.",
+        "Подать в малой чаше, завершить маслом, кунжутом и зеленью."
+      ],
+      "images": {
+        "top-shot": "assets/dishes/red-hummus/top-shot.png",
+        "close-up": "assets/dishes/red-hummus/close-up.png",
+        "table-scene": "assets/dishes/red-hummus/table-scene.png",
+        "chef-hands": "assets/dishes/red-hummus/chef-hands.png",
+        "eating-scene": "assets/dishes/red-hummus/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/red-hummus/top-shot.thumb.webp",
+        "close-up": "assets/dishes/red-hummus/close-up.thumb.webp",
+        "table-scene": "assets/dishes/red-hummus/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/red-hummus/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/red-hummus/eating-scene.thumb.webp"
+      },
+      "linkTarget": "thumb"
+    },
+    {
       "slug": "chef-candies",
       "title": "Конфеты ручной работы",
       "group": "prop",
