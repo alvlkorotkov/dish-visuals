@@ -150,6 +150,45 @@
       }
     },
     {
+      "slug": "signature-candies",
+      "title": "Уникальные конфеты как отдельный prop",
+      "group": "prop",
+      "tags": [
+        "реквизит",
+        "крупный план",
+        "нет изображений"
+      ],
+      "description": "Отдельные авторские конфеты как самостоятельный визуальный объект: форма, блеск, центр, след.",
+      "visualNote": "Набор разных форм, тёмный шоколад, красная начинка, золото, фарфор и макро-блики.",
+      "ingredients": [
+        "тёмный шоколад",
+        "вишнёвый центр",
+        "гранатовая редукция",
+        "какао",
+        "свекольная пудра",
+        "золотая пыль"
+      ],
+      "recipe": [
+        "Отлить несколько форм конфет.",
+        "Заполнить густой красной начинкой.",
+        "Отполировать и снять как отдельные предметы на фарфоре."
+      ],
+      "images": {
+        "top-shot": "assets/dishes/signature-candies/top-shot.png",
+        "close-up": "assets/dishes/signature-candies/close-up.png",
+        "table-scene": "assets/dishes/signature-candies/table-scene.png",
+        "chef-hands": "assets/dishes/signature-candies/chef-hands.png",
+        "eating-scene": "assets/dishes/signature-candies/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/signature-candies/top-shot.thumb.webp",
+        "close-up": "assets/dishes/signature-candies/close-up.thumb.webp",
+        "table-scene": "assets/dishes/signature-candies/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/signature-candies/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/signature-candies/eating-scene.thumb.webp"
+      }
+    },
+    {
       "slug": "candy-box",
       "title": "Коробка уникальных конфет",
       "group": "prop",
@@ -1054,45 +1093,6 @@
         "table-scene": "assets/dishes/red-not-wine/table-scene.thumb.webp",
         "chef-hands": "assets/dishes/red-not-wine/chef-hands.thumb.webp",
         "eating-scene": "assets/dishes/red-not-wine/eating-scene.thumb.webp"
-      }
-    },
-    {
-      "slug": "signature-candies",
-      "title": "Уникальные конфеты как отдельный prop",
-      "group": "prop",
-      "tags": [
-        "реквизит",
-        "крупный план",
-        "нет изображений"
-      ],
-      "description": "Отдельные авторские конфеты как самостоятельный визуальный объект: форма, блеск, центр, след.",
-      "visualNote": "Набор разных форм, тёмный шоколад, красная начинка, золото, фарфор и макро-блики.",
-      "ingredients": [
-        "тёмный шоколад",
-        "вишнёвый центр",
-        "гранатовая редукция",
-        "какао",
-        "свекольная пудра",
-        "золотая пыль"
-      ],
-      "recipe": [
-        "Отлить несколько форм конфет.",
-        "Заполнить густой красной начинкой.",
-        "Отполировать и снять как отдельные предметы на фарфоре."
-      ],
-      "images": {
-        "top-shot": "assets/dishes/signature-candies/top-shot.png",
-        "close-up": "assets/dishes/signature-candies/close-up.png",
-        "table-scene": "assets/dishes/signature-candies/table-scene.png",
-        "chef-hands": "assets/dishes/signature-candies/chef-hands.png",
-        "eating-scene": "assets/dishes/signature-candies/eating-scene.png"
-      },
-      "thumbs": {
-        "top-shot": "assets/dishes/signature-candies/top-shot.thumb.webp",
-        "close-up": "assets/dishes/signature-candies/close-up.thumb.webp",
-        "table-scene": "assets/dishes/signature-candies/table-scene.thumb.webp",
-        "chef-hands": "assets/dishes/signature-candies/chef-hands.thumb.webp",
-        "eating-scene": "assets/dishes/signature-candies/eating-scene.thumb.webp"
       }
     }
   ]
