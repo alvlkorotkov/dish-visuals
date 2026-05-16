@@ -150,6 +150,44 @@
       }
     },
     {
+      "slug": "candy-box",
+      "title": "Коробка уникальных конфет",
+      "group": "prop",
+      "tags": [
+        "реквизит",
+        "упаковка",
+        "нет изображений"
+      ],
+      "description": "Закрытая и открытая коробка как предмет, который можно держать, передавать и оставлять на столе.",
+      "visualNote": "Тёмная коробка, латунная кромка, белая бумага внутри, аккуратные ячейки и свечной блик.",
+      "ingredients": [
+        "плотный картон",
+        "матовая бумага",
+        "латунный тон",
+        "тёмная лента",
+        "вкладыш для конфет"
+      ],
+      "recipe": [
+        "Собрать коробку с жёсткой геометрией.",
+        "Разложить конфеты в отдельных ячейках.",
+        "Снимать закрытой, открытой и в руках без лица."
+      ],
+      "images": {
+        "top-shot": "assets/dishes/candy-box/top-shot.png",
+        "close-up": "assets/dishes/candy-box/close-up.png",
+        "table-scene": "assets/dishes/candy-box/table-scene.png",
+        "chef-hands": "assets/dishes/candy-box/chef-hands.png",
+        "eating-scene": "assets/dishes/candy-box/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/candy-box/top-shot.thumb.webp",
+        "close-up": "assets/dishes/candy-box/close-up.thumb.webp",
+        "table-scene": "assets/dishes/candy-box/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/candy-box/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/candy-box/eating-scene.thumb.webp"
+      }
+    },
+    {
       "slug": "beet-tartare",
       "title": "Свекольный тартар",
       "group": "variation",
@@ -1016,44 +1054,6 @@
         "table-scene": "assets/dishes/red-not-wine/table-scene.thumb.webp",
         "chef-hands": "assets/dishes/red-not-wine/chef-hands.thumb.webp",
         "eating-scene": "assets/dishes/red-not-wine/eating-scene.thumb.webp"
-      }
-    },
-    {
-      "slug": "candy-box",
-      "title": "Коробка уникальных конфет",
-      "group": "prop",
-      "tags": [
-        "реквизит",
-        "упаковка",
-        "нет изображений"
-      ],
-      "description": "Закрытая и открытая коробка как предмет, который можно держать, передавать и оставлять на столе.",
-      "visualNote": "Тёмная коробка, латунная кромка, белая бумага внутри, аккуратные ячейки и свечной блик.",
-      "ingredients": [
-        "плотный картон",
-        "матовая бумага",
-        "латунный тон",
-        "тёмная лента",
-        "вкладыш для конфет"
-      ],
-      "recipe": [
-        "Собрать коробку с жёсткой геометрией.",
-        "Разложить конфеты в отдельных ячейках.",
-        "Снимать закрытой, открытой и в руках без лица."
-      ],
-      "images": {
-        "top-shot": "assets/dishes/candy-box/top-shot.png",
-        "close-up": "assets/dishes/candy-box/close-up.png",
-        "table-scene": "assets/dishes/candy-box/table-scene.png",
-        "chef-hands": "assets/dishes/candy-box/chef-hands.png",
-        "eating-scene": "assets/dishes/candy-box/eating-scene.png"
-      },
-      "thumbs": {
-        "top-shot": "assets/dishes/candy-box/top-shot.thumb.webp",
-        "close-up": "assets/dishes/candy-box/close-up.thumb.webp",
-        "table-scene": "assets/dishes/candy-box/table-scene.thumb.webp",
-        "chef-hands": "assets/dishes/candy-box/chef-hands.thumb.webp",
-        "eating-scene": "assets/dishes/candy-box/eating-scene.thumb.webp"
       }
     },
     {
