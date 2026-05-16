@@ -101,6 +101,13 @@
         "table-scene": "assets/dishes/red-hummus/table-scene.png",
         "chef-hands": "assets/dishes/red-hummus/chef-hands.png",
         "eating-scene": "assets/dishes/red-hummus/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/red-hummus/top-shot.thumb.webp",
+        "close-up": "assets/dishes/red-hummus/close-up.thumb.webp",
+        "table-scene": "assets/dishes/red-hummus/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/red-hummus/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/red-hummus/eating-scene.thumb.webp"
       }
     },
     {
@@ -133,6 +140,13 @@
         "table-scene": "assets/dishes/chef-candies/table-scene.png",
         "chef-hands": "assets/dishes/chef-candies/chef-hands.png",
         "eating-scene": "assets/dishes/chef-candies/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/chef-candies/top-shot.thumb.webp",
+        "close-up": "assets/dishes/chef-candies/close-up.thumb.webp",
+        "table-scene": "assets/dishes/chef-candies/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/chef-candies/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/chef-candies/eating-scene.thumb.webp"
       }
     },
     {
@@ -167,6 +181,13 @@
         "table-scene": "assets/dishes/beet-tartare/table-scene.png",
         "chef-hands": "assets/dishes/beet-tartare/chef-hands.png",
         "eating-scene": "assets/dishes/beet-tartare/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/beet-tartare/top-shot.thumb.webp",
+        "close-up": "assets/dishes/beet-tartare/close-up.thumb.webp",
+        "table-scene": "assets/dishes/beet-tartare/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/beet-tartare/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/beet-tartare/eating-scene.thumb.webp"
       }
     },
     {
@@ -201,6 +222,13 @@
         "table-scene": "assets/dishes/celeriac-salt-crust/table-scene.png",
         "chef-hands": "assets/dishes/celeriac-salt-crust/chef-hands.png",
         "eating-scene": "assets/dishes/celeriac-salt-crust/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/celeriac-salt-crust/top-shot.thumb.webp",
+        "close-up": "assets/dishes/celeriac-salt-crust/close-up.thumb.webp",
+        "table-scene": "assets/dishes/celeriac-salt-crust/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/celeriac-salt-crust/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/celeriac-salt-crust/eating-scene.thumb.webp"
       }
     },
     {
@@ -234,6 +262,13 @@
         "table-scene": "assets/dishes/vegan-lasagna/table-scene.png",
         "chef-hands": "assets/dishes/vegan-lasagna/chef-hands.png",
         "eating-scene": "assets/dishes/vegan-lasagna/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/vegan-lasagna/top-shot.thumb.webp",
+        "close-up": "assets/dishes/vegan-lasagna/close-up.thumb.webp",
+        "table-scene": "assets/dishes/vegan-lasagna/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/vegan-lasagna/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/vegan-lasagna/eating-scene.thumb.webp"
       }
     },
     {
@@ -268,6 +303,13 @@
         "table-scene": "assets/dishes/fried-tofu-rice/table-scene.png",
         "chef-hands": "assets/dishes/fried-tofu-rice/chef-hands.png",
         "eating-scene": "assets/dishes/fried-tofu-rice/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/fried-tofu-rice/top-shot.thumb.webp",
+        "close-up": "assets/dishes/fried-tofu-rice/close-up.thumb.webp",
+        "table-scene": "assets/dishes/fried-tofu-rice/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/fried-tofu-rice/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/fried-tofu-rice/eating-scene.thumb.webp"
       }
     },
     {
@@ -301,6 +343,13 @@
         "table-scene": "assets/dishes/buckwheat-bowl/table-scene.png",
         "chef-hands": "assets/dishes/buckwheat-bowl/chef-hands.png",
         "eating-scene": "assets/dishes/buckwheat-bowl/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/buckwheat-bowl/top-shot.thumb.webp",
+        "close-up": "assets/dishes/buckwheat-bowl/close-up.thumb.webp",
+        "table-scene": "assets/dishes/buckwheat-bowl/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/buckwheat-bowl/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/buckwheat-bowl/eating-scene.thumb.webp"
       }
     },
     {
@@ -335,6 +384,13 @@
         "table-scene": "assets/dishes/pita-falafel-avocado/table-scene.png",
         "chef-hands": "assets/dishes/pita-falafel-avocado/chef-hands.png",
         "eating-scene": "assets/dishes/pita-falafel-avocado/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/pita-falafel-avocado/top-shot.thumb.webp",
+        "close-up": "assets/dishes/pita-falafel-avocado/close-up.thumb.webp",
+        "table-scene": "assets/dishes/pita-falafel-avocado/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/pita-falafel-avocado/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/pita-falafel-avocado/eating-scene.thumb.webp"
       }
     },
     {
@@ -368,6 +424,13 @@
         "table-scene": "assets/dishes/quinoa-blueberry-pecan/table-scene.png",
         "chef-hands": "assets/dishes/quinoa-blueberry-pecan/chef-hands.png",
         "eating-scene": "assets/dishes/quinoa-blueberry-pecan/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/quinoa-blueberry-pecan/top-shot.thumb.webp",
+        "close-up": "assets/dishes/quinoa-blueberry-pecan/close-up.thumb.webp",
+        "table-scene": "assets/dishes/quinoa-blueberry-pecan/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/quinoa-blueberry-pecan/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/quinoa-blueberry-pecan/eating-scene.thumb.webp"
       }
     },
     {
@@ -400,6 +463,13 @@
         "table-scene": "assets/dishes/general-salad/table-scene.png",
         "chef-hands": "assets/dishes/general-salad/chef-hands.png",
         "eating-scene": "assets/dishes/general-salad/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/general-salad/top-shot.thumb.webp",
+        "close-up": "assets/dishes/general-salad/close-up.thumb.webp",
+        "table-scene": "assets/dishes/general-salad/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/general-salad/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/general-salad/eating-scene.thumb.webp"
       }
     },
     {
@@ -432,6 +502,13 @@
         "close-up": "assets/dishes/watermelon-sashimi/close-up.png",
         "chef-hands": "assets/dishes/watermelon-sashimi/chef-hands.png",
         "eating-scene": "assets/dishes/watermelon-sashimi/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/watermelon-sashimi/top-shot.thumb.webp",
+        "table-scene": "assets/dishes/watermelon-sashimi/table-scene.thumb.webp",
+        "close-up": "assets/dishes/watermelon-sashimi/close-up.thumb.webp",
+        "chef-hands": "assets/dishes/watermelon-sashimi/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/watermelon-sashimi/eating-scene.thumb.webp"
       }
     },
     {
@@ -464,6 +541,13 @@
         "table-scene": "assets/dishes/cauliflower-charcoal/table-scene.png",
         "chef-hands": "assets/dishes/cauliflower-charcoal/chef-hands.png",
         "eating-scene": "assets/dishes/cauliflower-charcoal/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/cauliflower-charcoal/top-shot.thumb.webp",
+        "close-up": "assets/dishes/cauliflower-charcoal/close-up.thumb.webp",
+        "table-scene": "assets/dishes/cauliflower-charcoal/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/cauliflower-charcoal/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/cauliflower-charcoal/eating-scene.thumb.webp"
       }
     },
     {
@@ -496,6 +580,13 @@
         "table-scene": "assets/dishes/king-oyster-steak/table-scene.png",
         "chef-hands": "assets/dishes/king-oyster-steak/chef-hands.png",
         "eating-scene": "assets/dishes/king-oyster-steak/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/king-oyster-steak/top-shot.thumb.webp",
+        "close-up": "assets/dishes/king-oyster-steak/close-up.thumb.webp",
+        "table-scene": "assets/dishes/king-oyster-steak/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/king-oyster-steak/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/king-oyster-steak/eating-scene.thumb.webp"
       }
     },
     {
@@ -528,6 +619,13 @@
         "table-scene": "assets/dishes/carrot-tea-smoke/table-scene.png",
         "chef-hands": "assets/dishes/carrot-tea-smoke/chef-hands.png",
         "eating-scene": "assets/dishes/carrot-tea-smoke/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/carrot-tea-smoke/top-shot.thumb.webp",
+        "close-up": "assets/dishes/carrot-tea-smoke/close-up.thumb.webp",
+        "table-scene": "assets/dishes/carrot-tea-smoke/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/carrot-tea-smoke/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/carrot-tea-smoke/eating-scene.thumb.webp"
       }
     },
     {
@@ -560,6 +658,13 @@
         "table-scene": "assets/dishes/tomato-watermelon-carpaccio/table-scene.png",
         "chef-hands": "assets/dishes/tomato-watermelon-carpaccio/chef-hands.png",
         "eating-scene": "assets/dishes/tomato-watermelon-carpaccio/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/tomato-watermelon-carpaccio/top-shot.thumb.webp",
+        "close-up": "assets/dishes/tomato-watermelon-carpaccio/close-up.thumb.webp",
+        "table-scene": "assets/dishes/tomato-watermelon-carpaccio/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/tomato-watermelon-carpaccio/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/tomato-watermelon-carpaccio/eating-scene.thumb.webp"
       }
     },
     {
@@ -592,6 +697,13 @@
         "table-scene": "assets/dishes/rice-paper-dumplings/table-scene.png",
         "chef-hands": "assets/dishes/rice-paper-dumplings/chef-hands.png",
         "eating-scene": "assets/dishes/rice-paper-dumplings/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/rice-paper-dumplings/top-shot.thumb.webp",
+        "close-up": "assets/dishes/rice-paper-dumplings/close-up.thumb.webp",
+        "table-scene": "assets/dishes/rice-paper-dumplings/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/rice-paper-dumplings/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/rice-paper-dumplings/eating-scene.thumb.webp"
       }
     },
     {
@@ -624,6 +736,13 @@
         "table-scene": "assets/dishes/beet-ravioli/table-scene.png",
         "chef-hands": "assets/dishes/beet-ravioli/chef-hands.png",
         "eating-scene": "assets/dishes/beet-ravioli/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/beet-ravioli/top-shot.thumb.webp",
+        "close-up": "assets/dishes/beet-ravioli/close-up.thumb.webp",
+        "table-scene": "assets/dishes/beet-ravioli/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/beet-ravioli/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/beet-ravioli/eating-scene.thumb.webp"
       }
     },
     {
@@ -656,6 +775,13 @@
         "table-scene": "assets/dishes/fermented-plum-miso/table-scene.png",
         "chef-hands": "assets/dishes/fermented-plum-miso/chef-hands.png",
         "eating-scene": "assets/dishes/fermented-plum-miso/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/fermented-plum-miso/top-shot.thumb.webp",
+        "close-up": "assets/dishes/fermented-plum-miso/close-up.thumb.webp",
+        "table-scene": "assets/dishes/fermented-plum-miso/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/fermented-plum-miso/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/fermented-plum-miso/eating-scene.thumb.webp"
       }
     },
     {
@@ -688,6 +814,13 @@
         "table-scene": "assets/dishes/smoked-pear-seaweed/table-scene.png",
         "chef-hands": "assets/dishes/smoked-pear-seaweed/chef-hands.png",
         "eating-scene": "assets/dishes/smoked-pear-seaweed/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/smoked-pear-seaweed/top-shot.thumb.webp",
+        "close-up": "assets/dishes/smoked-pear-seaweed/close-up.thumb.webp",
+        "table-scene": "assets/dishes/smoked-pear-seaweed/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/smoked-pear-seaweed/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/smoked-pear-seaweed/eating-scene.thumb.webp"
       }
     },
     {
@@ -720,6 +853,13 @@
         "table-scene": "assets/dishes/topinambur-cream/table-scene.png",
         "chef-hands": "assets/dishes/topinambur-cream/chef-hands.png",
         "eating-scene": "assets/dishes/topinambur-cream/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/topinambur-cream/top-shot.thumb.webp",
+        "close-up": "assets/dishes/topinambur-cream/close-up.thumb.webp",
+        "table-scene": "assets/dishes/topinambur-cream/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/topinambur-cream/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/topinambur-cream/eating-scene.thumb.webp"
       }
     },
     {
@@ -752,6 +892,13 @@
         "table-scene": "assets/dishes/pumpkin-coals-pomegranate/table-scene.png",
         "chef-hands": "assets/dishes/pumpkin-coals-pomegranate/chef-hands.png",
         "eating-scene": "assets/dishes/pumpkin-coals-pomegranate/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/pumpkin-coals-pomegranate/top-shot.thumb.webp",
+        "close-up": "assets/dishes/pumpkin-coals-pomegranate/close-up.thumb.webp",
+        "table-scene": "assets/dishes/pumpkin-coals-pomegranate/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/pumpkin-coals-pomegranate/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/pumpkin-coals-pomegranate/eating-scene.thumb.webp"
       }
     },
     {
@@ -784,6 +931,13 @@
         "table-scene": "assets/dishes/sorrel-cucumber-sorbet/table-scene.png",
         "chef-hands": "assets/dishes/sorrel-cucumber-sorbet/chef-hands.png",
         "eating-scene": "assets/dishes/sorrel-cucumber-sorbet/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/sorrel-cucumber-sorbet/top-shot.thumb.webp",
+        "close-up": "assets/dishes/sorrel-cucumber-sorbet/close-up.thumb.webp",
+        "table-scene": "assets/dishes/sorrel-cucumber-sorbet/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/sorrel-cucumber-sorbet/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/sorrel-cucumber-sorbet/eating-scene.thumb.webp"
       }
     },
     {
@@ -816,6 +970,13 @@
         "table-scene": "assets/dishes/black-rice-lychee/table-scene.png",
         "chef-hands": "assets/dishes/black-rice-lychee/chef-hands.png",
         "eating-scene": "assets/dishes/black-rice-lychee/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/black-rice-lychee/top-shot.thumb.webp",
+        "close-up": "assets/dishes/black-rice-lychee/close-up.thumb.webp",
+        "table-scene": "assets/dishes/black-rice-lychee/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/black-rice-lychee/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/black-rice-lychee/eating-scene.thumb.webp"
       }
     },
     {
@@ -848,6 +1009,13 @@
         "table-scene": "assets/dishes/red-not-wine/table-scene.png",
         "chef-hands": "assets/dishes/red-not-wine/chef-hands.png",
         "eating-scene": "assets/dishes/red-not-wine/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/red-not-wine/top-shot.thumb.webp",
+        "close-up": "assets/dishes/red-not-wine/close-up.thumb.webp",
+        "table-scene": "assets/dishes/red-not-wine/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/red-not-wine/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/red-not-wine/eating-scene.thumb.webp"
       }
     },
     {
@@ -879,6 +1047,13 @@
         "table-scene": "assets/dishes/candy-box/table-scene.png",
         "chef-hands": "assets/dishes/candy-box/chef-hands.png",
         "eating-scene": "assets/dishes/candy-box/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/candy-box/top-shot.thumb.webp",
+        "close-up": "assets/dishes/candy-box/close-up.thumb.webp",
+        "table-scene": "assets/dishes/candy-box/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/candy-box/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/candy-box/eating-scene.thumb.webp"
       }
     },
     {
@@ -911,6 +1086,13 @@
         "table-scene": "assets/dishes/signature-candies/table-scene.png",
         "chef-hands": "assets/dishes/signature-candies/chef-hands.png",
         "eating-scene": "assets/dishes/signature-candies/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/signature-candies/top-shot.thumb.webp",
+        "close-up": "assets/dishes/signature-candies/close-up.thumb.webp",
+        "table-scene": "assets/dishes/signature-candies/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/signature-candies/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/signature-candies/eating-scene.thumb.webp"
       }
     }
   ]
