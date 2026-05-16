@@ -69,41 +69,6 @@
       }
     },
     {
-      "slug": "mushroom-risotto-fullsize",
-      "title": "Ризотто с грибами — без thumb",
-      "group": "base",
-      "tags": [
-        "из базового меню",
-        "тёплое",
-        "готово",
-        "сравнение"
-      ],
-      "description": "Кремовое ризотто с жареными грибами, зелёным маслом и точным ресторанным финальным штрихом.",
-      "visualNote": "Та же карточка для сравнения: изображения в превью грузятся напрямую из полноразмерных PNG.",
-      "ingredients": [
-        "рис арборио или карнароли",
-        "овощной бульон",
-        "лесные грибы",
-        "тимьян",
-        "петрушка",
-        "оливковое масло",
-        "зелёное масло",
-        "крупная соль"
-      ],
-      "recipe": [
-        "Обжарить грибы отдельно до тёмной корочки.",
-        "Прогреть рис в масле, постепенно вводить горячий бульон.",
-        "Вмешать грибы, довести до кремовой текстуры и закончить зелёным маслом."
-      ],
-      "images": {
-        "top-shot": "assets/dishes/mushroom-risotto/top-shot.png",
-        "close-up": "assets/dishes/mushroom-risotto/close-up.png",
-        "table-scene": "assets/dishes/mushroom-risotto/table-scene.png",
-        "chef-hands": "assets/dishes/mushroom-risotto/chef-hands.png",
-        "eating-scene": "assets/dishes/mushroom-risotto/eating-scene.png"
-      }
-    },
-    {
       "slug": "red-hummus",
       "title": "Красно-фиолетовый хумус",
       "group": "base",
