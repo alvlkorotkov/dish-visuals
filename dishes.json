@@ -59,6 +59,13 @@
         "table-scene": "assets/dishes/mushroom-risotto/table-scene.png",
         "chef-hands": "assets/dishes/mushroom-risotto/chef-hands.png",
         "eating-scene": "assets/dishes/mushroom-risotto/eating-scene.png"
+      },
+      "thumbs": {
+        "top-shot": "assets/dishes/mushroom-risotto/top-shot.thumb.webp",
+        "close-up": "assets/dishes/mushroom-risotto/close-up.thumb.webp",
+        "table-scene": "assets/dishes/mushroom-risotto/table-scene.thumb.webp",
+        "chef-hands": "assets/dishes/mushroom-risotto/chef-hands.thumb.webp",
+        "eating-scene": "assets/dishes/mushroom-risotto/eating-scene.thumb.webp"
       }
     },
     {
